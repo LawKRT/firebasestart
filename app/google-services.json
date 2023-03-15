@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642151553910",
+    "project_id": "myfirst-giggity",
+    "storage_bucket": "myfirst-giggity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642151553910:android:4a90505ec04b948ec53857",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642151553910-fd80l4o2ovtufimgsn33k85isv0cvmtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChS4JrfPjpJLJbFQgQZgufeuIXjaTRlmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642151553910-fd80l4o2ovtufimgsn33k85isv0cvmtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
